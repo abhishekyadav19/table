@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "label": "Swift",
+        "model":"2014",
+        "color":"Green",
+        "rate":"10L",
+        "milage":"21km/L"
+    },
+    {
+        "id": 2,
+        "label": "Nano",
+        "model":"2016",
+        "color":"Purple",
+        "rate":"80L",
+        "milage":"7km/L"
+    },
+    {
+        "id": 3,
+        "label": "Aura",
+        "model":"2019",
+        "color":"White",
+        "rate":"55L",
+        "milage":"12km/L"
+    },
+    {
+        "id": 4,
+        "label": "Wagnour",
+        "model":"2011",
+        "color":"Purple",
+        "rate":"33L",
+        "milage":"10km/L"
+    },
+    {
+        "id": 5,
+        "label": "Maruti",
+        "model":"2010",
+        "color":"grey",
+        "rate":"11L",
+        "milage":"23km/L"
+    },
+    {
+        "id": 6,
+        "label": "Suzuki",
+        "model":"2008",
+        "color":"White",
+        "rate":"24L",
+        "milage":"18km/L"
+    },
+    {
+        "id": 7,
+        "label": "Dezire",
+        "model":"2016",
+        "color":"White",
+        "rate":"18L",
+        "milage":"19km/L"
+    },
+    {
+        "id": 8,
+        "label": "BMW",
+        "model":"2022",
+        "color":"Purple",
+        "rate":"19L",
+        "milage":"12km/L"
+    },
+    {
+        "id": 9,
+        "label": "Mercedez Benz",
+        "model":"2009",
+        "color":"Voilet",
+        "rate":"27L",
+        "milage":"12km/L"
+    },
+    {
+        "id": 10,
+        "label": "Skoda",
+        "model":"2001",
+        "color":"Purple",
+        "rate":"50L",
+        "milage":"8km/L"
+    },
+    {
+        "id": 11,
+        "label": "Hundai",
+        "model":"2002",
+        "color":"Grey",
+        "rate":"40L",
+        "milage":"5km/L"
+    }
+]
